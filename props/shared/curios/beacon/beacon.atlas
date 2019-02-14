@@ -1,0 +1,48 @@
+
+beacon.png
+size: 3735,614
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+active
+  rotate: true
+  xy: 1531, 77
+  size: 535, 754
+  orig: 535, 754
+  offset: 0, 0
+  index: -1
+closed
+  rotate: true
+  xy: 767, 10
+  size: 602, 762
+  orig: 602, 762
+  offset: 0, 0
+  index: -1
+crown
+  rotate: true
+  xy: 3476, 287
+  size: 325, 257
+  orig: 325, 257
+  offset: 0, 0
+  index: -1
+glow
+  rotate: false
+  xy: 2917, 52
+  size: 557, 560
+  orig: 557, 560
+  offset: 0, 0
+  index: -1
+open
+  rotate: true
+  xy: 2, 10
+  size: 602, 763
+  orig: 602, 763
+  offset: 0, 0
+  index: -1
+tentacles
+  rotate: false
+  xy: 2287, 2
+  size: 628, 610
+  orig: 628, 610
+  offset: 0, 0
+  index: -1

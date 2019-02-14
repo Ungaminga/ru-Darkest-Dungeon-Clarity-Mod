@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <language id="english">
+	<!-- Enemy skills test? -->
+	<!-- Enemy skills test? {colour_start|guard} for all guard/buff skills -->
+	<!-- Enemy attack name length in bounds. 123456789 123456789 12>
+	<!-- Enemy attack name length in bounds. Rain of Whips Test test tes>
+	<!-- Enemy skills test?  for all guard/buff skills 
+	{colour_start|Cdamage}{colour_end}
+	{colour_start|Cpositions}{colour_end}
+	{colour_start|Ctargets}{colour_end}
+	{colour_start|Cdamage}{colour_end} {colour_start|Cpositions}{colour_end} {colour_start|Ctargets}{colour_end}
+	-->
+	<!-- Enemies in ALL locations -->
+	<!-- Supplicant -->
+	<entry id="str_monster_skill_gather_the_blood"><![CDATA[{colour_start|Cdamage}Gather the Blood{colour_end} {colour_start|Cpositions}1~2{colour_end} {colour_start|Ctargets}Any / 31% Curse{colour_end}]]></entry>
+	<entry id="str_monster_skill_predigestion"><![CDATA[{colour_start|Cdamage}Predigestion{colour_end} {colour_start|Cpositions}Any{colour_end} {colour_start|Ctargets}Any{colour_end}]]></entry>
+	<!-- Sycophant "the thirst" will need to be looked into, lots of CC enemies have this attack.-->
+	<entry id="str_monster_skill_maddening_whine"><![CDATA[{colour_start|Cdamage}Maddening Whine{colour_end} {colour_start|Cpositions}Any{colour_end} {colour_start|Ctargets}Any{colour_end}]]></entry>
+	<entry id="str_monster_skill_feed_berserk"><![CDATA[{colour_start|Cdamage}The Thirst Syco{colour_end} {colour_start|Cpositions}Any{colour_end} {colour_start|Ctargets}Any / 31% Curse{colour_end}]]></entry>
+	
+	<entry id="str_monster_skill_deafening_whine"><![CDATA[{colour_start|Cdamage}Deafening Whine{colour_end} {colour_start|Cpositions}Any{colour_end} {colour_start|Ctargets}Any{colour_end}]]></entry>
+	<entry id="str_monster_skill_bombing_run"><![CDATA[{colour_start|Cdamage}Bombing Run{colour_end} {colour_start|Cpositions}Any{colour_end} {colour_start|Ctargets}3~4 (25% +1){colour_end}]]></entry>
+	<!-- Gatekeeper -->
+	<entry id="str_monster_skill_enraging_slight"><![CDATA[{colour_start|Cdamage}Enraging Slight{colour_end} {colour_start|Cpositions}Any{colour_end} {colour_start|Ctargets}Any{colour_end}]]></entry>
+	<entry id="str_monster_skill_elusive_exit"><![CDATA[{colour_start|Cdamage}Elusive Exit{colour_end} {colour_start|Cpositions}Any{colour_end} {colour_start|Ctargets}All + Summons{colour_end}]]></entry>
+	<!-- Chevalier -->
+	<entry id="str_monster_skill_buried_blast"><![CDATA[{colour_start|Cdamage}Buried Blast{colour_end} {colour_start|Cpositions}2~4{colour_end} {colour_start|Ctargets}Any2{colour_end}]]></entry>
+    <entry id="str_monster_skill_buried_skewer"><![CDATA[{colour_start|Cdamage}Subterranean Skewer{colour_end} {colour_start|Cpositions}Any{colour_end} {colour_start|Ctargets}Any{colour_end}]]></entry>
+	<!-- The Fanatic -->
+	<entry id="str_monster_skill_sentence_rendered"><![CDATA[{colour_start|Cdamage}Sentence Rendered{colour_end} {colour_start|Cpositions}Any{colour_end} {colour_start|Ctargets}Any{colour_end}]]></entry>
+	<entry id="str_monster_skill_righteous_condemnation"><![CDATA[{colour_start|Cdamage}Righteous Condemnation{colour_end} {colour_start|Cpositions}Any{colour_end} {colour_start|Ctargets}All{colour_end}]]></entry>
+	<entry id="str_monster_skill_holy_stake"><![CDATA[{colour_start|Cdamage}Holy Stake{colour_end} {colour_start|Cpositions}Any{colour_end} {colour_start|Ctargets}Any{colour_end}]]></entry>
+	<entry id="str_monster_skill_brand_tainted"><![CDATA[{colour_start|Cdamage}Brand the Tainted{colour_end} {colour_start|Cpositions}Any{colour_end} {colour_start|Ctargets}Any{colour_end}]]></entry>
+	<entry id="str_monster_skill_beat_down"><![CDATA[{colour_start|Cdamage}Strike the Heretic{colour_end} {colour_start|Cpositions}Any{colour_end} {colour_start|Ctargets}Any{colour_end}]]></entry>
+	<entry id="str_monster_skill_crush_tainted"><![CDATA[{colour_start|Cdamage}Fury of the Righteous{colour_end} {colour_start|Cpositions}Any{colour_end} {colour_start|Ctargets}All{colour_end}]]></entry>
+	
+	
+	
+	
+	
+    <entry id="str_stress_heal_self_disease_vampire_blood_lust"><![CDATA[그래에에 이것이 블러드의 힘이다!]]></entry>
+    <entry id="str_stress_heal_self_disease_vampire_blood_lust"><![CDATA[내가 블러드 신이다!]]></entry>
+  </language>
+</root>
+

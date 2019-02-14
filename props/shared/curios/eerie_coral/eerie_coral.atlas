@@ -1,0 +1,27 @@
+
+eerie_coral.png
+size: 1902,659
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+active
+  rotate: false
+  xy: 686, 34
+  size: 622, 623
+  orig: 622, 623
+  offset: 0, 0
+  index: -1
+closed
+  rotate: false
+  xy: 2, 2
+  size: 682, 655
+  orig: 682, 655
+  offset: 0, 0
+  index: -1
+open
+  rotate: false
+  xy: 1310, 43
+  size: 590, 614
+  orig: 590, 614
+  offset: 0, 0
+  index: -1

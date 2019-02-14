@@ -1,0 +1,27 @@
+
+chirurgeons_satchel.png
+size: 1112,300
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+active
+  rotate: false
+  xy: 2, 2
+  size: 376, 296
+  orig: 376, 296
+  offset: 0, 0
+  index: -1
+closed
+  rotate: false
+  xy: 380, 17
+  size: 361, 281
+  orig: 361, 281
+  offset: 0, 0
+  index: -1
+open
+  rotate: false
+  xy: 743, 52
+  size: 367, 246
+  orig: 367, 246
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+corrupted_altar.png
+size: 891,580
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+active
+  rotate: false
+  xy: 2, 2
+  size: 282, 576
+  orig: 282, 576
+  offset: 0, 0
+  index: -1
+closed
+  rotate: false
+  xy: 286, 9
+  size: 278, 569
+  orig: 278, 569
+  offset: 0, 0
+  index: -1
+open
+  rotate: false
+  xy: 566, 232
+  size: 323, 346
+  orig: 323, 346
+  offset: 0, 0
+  index: -1

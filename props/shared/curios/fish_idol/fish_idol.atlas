@@ -1,0 +1,27 @@
+
+fish_idol.png
+size: 430,2081
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+active
+  rotate: false
+  xy: 2, 543
+  size: 397, 778
+  orig: 397, 778
+  offset: 0, 0
+  index: -1
+closed
+  rotate: false
+  xy: 2, 1323
+  size: 426, 756
+  orig: 426, 756
+  offset: 0, 0
+  index: -1
+open
+  rotate: false
+  xy: 2, 2
+  size: 421, 539
+  orig: 421, 539
+  offset: 0, 0
+  index: -1

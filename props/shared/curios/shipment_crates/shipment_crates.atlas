@@ -1,0 +1,27 @@
+
+shipment_crates.png
+size: 580,1316
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+active
+  rotate: false
+  xy: 2, 411
+  size: 555, 439
+  orig: 555, 439
+  offset: 0, 0
+  index: -1
+closed
+  rotate: false
+  xy: 2, 852
+  size: 569, 462
+  orig: 569, 462
+  offset: 0, 0
+  index: -1
+open
+  rotate: false
+  xy: 2, 2
+  size: 576, 407
+  orig: 576, 407
+  offset: 0, 0
+  index: -1

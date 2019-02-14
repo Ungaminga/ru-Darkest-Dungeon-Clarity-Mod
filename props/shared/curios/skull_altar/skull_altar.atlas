@@ -1,0 +1,27 @@
+
+skull_altar.png
+size: 1906,495
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+active
+  rotate: true
+  xy: 2, 95
+  size: 398, 725
+  orig: 398, 725
+  offset: 0, 0
+  index: -1
+closed
+  rotate: true
+  xy: 729, 110
+  size: 383, 714
+  orig: 383, 714
+  offset: 0, 0
+  index: -1
+open
+  rotate: false
+  xy: 1445, 2
+  size: 459, 491
+  orig: 459, 491
+  offset: 0, 0
+  index: -1

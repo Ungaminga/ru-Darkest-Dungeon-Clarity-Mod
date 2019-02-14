@@ -1,0 +1,27 @@
+
+sack.png
+size: 841,425
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+active
+  rotate: true
+  xy: 2, 2
+  size: 421, 321
+  orig: 421, 321
+  offset: 0, 0
+  index: -1
+closed
+  rotate: true
+  xy: 325, 9
+  size: 414, 295
+  orig: 414, 295
+  offset: 0, 0
+  index: -1
+open
+  rotate: true
+  xy: 622, 9
+  size: 414, 217
+  orig: 414, 217
+  offset: 0, 0
+  index: -1

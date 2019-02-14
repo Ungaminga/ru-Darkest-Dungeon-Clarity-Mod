@@ -1,0 +1,27 @@
+
+troubling_effigy.png
+size: 1581,483
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+active
+  rotate: true
+  xy: 2, 2
+  size: 479, 557
+  orig: 479, 557
+  offset: 0, 0
+  index: -1
+closed
+  rotate: true
+  xy: 561, 23
+  size: 458, 562
+  orig: 458, 562
+  offset: 0, 0
+  index: -1
+open
+  rotate: false
+  xy: 1125, 7
+  size: 454, 474
+  orig: 454, 474
+  offset: 0, 0
+  index: -1

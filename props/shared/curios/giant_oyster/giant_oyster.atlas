@@ -1,0 +1,27 @@
+
+giant_oyster.png
+size: 1674,493
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+active
+  rotate: false
+  xy: 2, 36
+  size: 577, 455
+  orig: 577, 455
+  offset: 0, 0
+  index: -1
+closed
+  rotate: false
+  xy: 1123, 52
+  size: 549, 439
+  orig: 549, 439
+  offset: 0, 0
+  index: -1
+open
+  rotate: false
+  xy: 581, 2
+  size: 540, 489
+  orig: 540, 489
+  offset: 0, 0
+  index: -1

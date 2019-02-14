@@ -1,0 +1,27 @@
+
+giant_fish_carcass.png
+size: 577,1306
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+active
+  rotate: false
+  xy: 2, 838
+  size: 573, 466
+  orig: 573, 466
+  offset: 0, 0
+  index: -1
+closed
+  rotate: false
+  xy: 2, 384
+  size: 553, 452
+  orig: 553, 452
+  offset: 0, 0
+  index: -1
+open
+  rotate: false
+  xy: 2, 2
+  size: 529, 380
+  orig: 529, 380
+  offset: 0, 0
+  index: -1

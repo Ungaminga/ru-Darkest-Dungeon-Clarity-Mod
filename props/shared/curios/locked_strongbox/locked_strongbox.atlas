@@ -1,0 +1,27 @@
+
+locked_strongbox.png
+size: 1029,394
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+active
+  rotate: true
+  xy: 728, 7
+  size: 385, 299
+  orig: 385, 299
+  offset: 0, 0
+  index: -1
+closed
+  rotate: true
+  xy: 426, 2
+  size: 390, 300
+  orig: 390, 300
+  offset: 0, 0
+  index: -1
+open
+  rotate: false
+  xy: 2, 21
+  size: 422, 371
+  orig: 422, 371
+  offset: 0, 0
+  index: -1

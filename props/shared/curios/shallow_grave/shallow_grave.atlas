@@ -1,0 +1,27 @@
+
+shallow_grave.png
+size: 1734,474
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+active
+  rotate: false
+  xy: 1240, 48
+  size: 492, 424
+  orig: 492, 424
+  offset: 0, 0
+  index: -1
+closed
+  rotate: false
+  xy: 696, 2
+  size: 542, 470
+  orig: 542, 470
+  offset: 0, 0
+  index: -1
+open
+  rotate: false
+  xy: 2, 73
+  size: 692, 399
+  orig: 692, 399
+  offset: 0, 0
+  index: -1

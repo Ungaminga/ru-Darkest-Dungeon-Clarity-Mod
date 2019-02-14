@@ -1,0 +1,27 @@
+
+bas_relief.png
+size: 1832,608
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+active
+  rotate: true
+  xy: 1278, 2
+  size: 604, 552
+  orig: 604, 552
+  offset: 0, 0
+  index: -1
+closed
+  rotate: false
+  xy: 666, 21
+  size: 610, 585
+  orig: 610, 585
+  offset: 0, 0
+  index: -1
+open
+  rotate: false
+  xy: 2, 40
+  size: 662, 566
+  orig: 662, 566
+  offset: 0, 0
+  index: -1

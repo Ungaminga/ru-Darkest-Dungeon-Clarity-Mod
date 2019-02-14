@@ -1,0 +1,27 @@
+
+foodstuff_crate.png
+size: 1232,277
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+active
+  rotate: false
+  xy: 2, 2
+  size: 417, 273
+  orig: 417, 273
+  offset: 0, 0
+  index: -1
+closed
+  rotate: false
+  xy: 835, 14
+  size: 395, 261
+  orig: 395, 261
+  offset: 0, 0
+  index: -1
+open
+  rotate: false
+  xy: 421, 3
+  size: 412, 272
+  orig: 412, 272
+  offset: 0, 0
+  index: -1

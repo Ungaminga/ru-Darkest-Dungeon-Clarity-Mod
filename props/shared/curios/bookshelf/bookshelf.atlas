@@ -1,0 +1,27 @@
+
+bookshelf.png
+size: 2056,683
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+active
+  rotate: false
+  xy: 1483, 2
+  size: 571, 679
+  orig: 571, 679
+  offset: 0, 0
+  index: -1
+closed
+  rotate: true
+  xy: 751, 50
+  size: 631, 730
+  orig: 631, 730
+  offset: 0, 0
+  index: -1
+open
+  rotate: true
+  xy: 2, 51
+  size: 630, 747
+  orig: 630, 747
+  offset: 0, 0
+  index: -1

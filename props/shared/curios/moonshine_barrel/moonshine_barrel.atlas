@@ -1,0 +1,27 @@
+
+moonshine_barrel.png
+size: 1313,484
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+active
+  rotate: true
+  xy: 2, 9
+  size: 473, 487
+  orig: 473, 487
+  offset: 0, 0
+  index: -1
+closed
+  rotate: true
+  xy: 491, 17
+  size: 465, 476
+  orig: 465, 476
+  offset: 0, 0
+  index: -1
+open
+  rotate: true
+  xy: 969, 2
+  size: 480, 342
+  orig: 480, 342
+  offset: 0, 0
+  index: -1

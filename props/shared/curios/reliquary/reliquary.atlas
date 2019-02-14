@@ -1,0 +1,41 @@
+
+reliquary.png
+size: 729,589
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+active
+  rotate: false
+  xy: 2, 2
+  size: 273, 585
+  orig: 273, 585
+  offset: 0, 0
+  index: -1
+closed
+  rotate: false
+  xy: 277, 17
+  size: 272, 570
+  orig: 272, 570
+  offset: 0, 0
+  index: -1
+open
+  rotate: false
+  xy: 277, 17
+  size: 272, 570
+  orig: 272, 570
+  offset: 0, 0
+  index: -1
+left_glow
+  rotate: false
+  xy: 551, 99
+  size: 91, 488
+  orig: 91, 488
+  offset: 0, 0
+  index: -1
+right_glow
+  rotate: false
+  xy: 644, 92
+  size: 83, 495
+  orig: 83, 495
+  offset: 0, 0
+  index: -1

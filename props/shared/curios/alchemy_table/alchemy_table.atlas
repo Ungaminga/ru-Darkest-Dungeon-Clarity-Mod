@@ -1,0 +1,27 @@
+
+alchemy_table.png
+size: 2170,536
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+active
+  rotate: false
+  xy: 1464, 45
+  size: 704, 489
+  orig: 704, 489
+  offset: 0, 0
+  index: -1
+closed
+  rotate: false
+  xy: 785, 2
+  size: 677, 532
+  orig: 677, 532
+  offset: 0, 0
+  index: -1
+open
+  rotate: false
+  xy: 2, 3
+  size: 781, 531
+  orig: 781, 531
+  offset: 0, 0
+  index: -1

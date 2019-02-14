@@ -1,0 +1,27 @@
+
+crate.png
+size: 533,714
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+active
+  rotate: true
+  xy: 2, 2
+  size: 409, 270
+  orig: 409, 270
+  offset: 0, 0
+  index: -1
+closed
+  rotate: true
+  xy: 274, 13
+  size: 398, 257
+  orig: 398, 257
+  offset: 0, 0
+  index: -1
+open
+  rotate: false
+  xy: 2, 413
+  size: 484, 299
+  orig: 484, 299
+  offset: 0, 0
+  index: -1

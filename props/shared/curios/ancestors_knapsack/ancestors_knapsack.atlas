@@ -1,0 +1,27 @@
+
+ancestors_knapsack.png
+size: 931,343
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+active
+  rotate: false
+  xy: 317, 7
+  size: 315, 334
+  orig: 315, 334
+  offset: 0, 0
+  index: -1
+closed
+  rotate: false
+  xy: 634, 2
+  size: 295, 339
+  orig: 295, 339
+  offset: 0, 0
+  index: -1
+open
+  rotate: false
+  xy: 2, 2
+  size: 313, 339
+  orig: 313, 339
+  offset: 0, 0
+  index: -1

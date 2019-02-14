@@ -1,0 +1,27 @@
+
+confession_booth.png
+size: 2195,837
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+active
+  rotate: false
+  xy: 1477, 2
+  size: 716, 833
+  orig: 716, 833
+  offset: 0, 0
+  index: -1
+closed
+  rotate: false
+  xy: 2, 15
+  size: 741, 820
+  orig: 741, 820
+  offset: 0, 0
+  index: -1
+open
+  rotate: false
+  xy: 745, 17
+  size: 730, 818
+  orig: 730, 818
+  offset: 0, 0
+  index: -1

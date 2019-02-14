@@ -1,0 +1,27 @@
+
+occult_scrawlings.png
+size: 1396,486
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+active
+  rotate: true
+  xy: 2, 2
+  size: 482, 480
+  orig: 482, 480
+  offset: 0, 0
+  index: -1
+closed
+  rotate: true
+  xy: 484, 7
+  size: 477, 458
+  orig: 477, 458
+  offset: 0, 0
+  index: -1
+open
+  rotate: true
+  xy: 944, 10
+  size: 474, 450
+  orig: 474, 450
+  offset: 0, 0
+  index: -1

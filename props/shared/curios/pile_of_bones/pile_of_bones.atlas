@@ -1,0 +1,27 @@
+
+pile_of_bones.png
+size: 1196,498
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+active
+  rotate: true
+  xy: 512, 31
+  size: 465, 417
+  orig: 465, 417
+  offset: 0, 0
+  index: -1
+closed
+  rotate: false
+  xy: 2, 84
+  size: 508, 412
+  orig: 508, 412
+  offset: 0, 0
+  index: -1
+open
+  rotate: true
+  xy: 931, 2
+  size: 494, 263
+  orig: 494, 263
+  offset: 0, 0
+  index: -1

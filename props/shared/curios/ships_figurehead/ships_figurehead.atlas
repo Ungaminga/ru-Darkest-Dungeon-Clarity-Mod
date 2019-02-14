@@ -1,0 +1,27 @@
+
+ships_figurehead.png
+size: 1436,1081
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+active
+  rotate: true
+  xy: 615, 76
+  size: 439, 772
+  orig: 439, 772
+  offset: 0, 0
+  index: -1
+closed
+  rotate: false
+  xy: 2, 2
+  size: 611, 1077
+  orig: 611, 1077
+  offset: 0, 0
+  index: -1
+open
+  rotate: true
+  xy: 615, 517
+  size: 562, 819
+  orig: 562, 819
+  offset: 0, 0
+  index: -1

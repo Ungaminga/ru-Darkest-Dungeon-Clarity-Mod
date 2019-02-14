@@ -1,0 +1,27 @@
+
+sarcophagus.png
+size: 761,1228
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+active
+  rotate: true
+  xy: 336, 479
+  size: 747, 406
+  orig: 747, 406
+  offset: 0, 0
+  index: -1
+closed
+  rotate: false
+  xy: 2, 2
+  size: 757, 395
+  orig: 757, 395
+  offset: 0, 0
+  index: -1
+open
+  rotate: true
+  xy: 2, 399
+  size: 827, 332
+  orig: 827, 332
+  offset: 0, 0
+  index: -1

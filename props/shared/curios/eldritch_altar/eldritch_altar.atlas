@@ -1,0 +1,27 @@
+
+eldritch_altar.png
+size: 742,480
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+active
+  rotate: false
+  xy: 479, 43
+  size: 261, 435
+  orig: 261, 435
+  offset: 0, 0
+  index: -1
+closed
+  rotate: false
+  xy: 241, 2
+  size: 236, 476
+  orig: 236, 476
+  offset: 0, 0
+  index: -1
+open
+  rotate: false
+  xy: 2, 2
+  size: 237, 476
+  orig: 237, 476
+  offset: 0, 0
+  index: -1

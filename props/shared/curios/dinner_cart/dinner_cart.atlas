@@ -1,0 +1,27 @@
+
+dinner_cart.png
+size: 2213,629
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+active
+  rotate: false
+  xy: 795, 2
+  size: 713, 625
+  orig: 713, 625
+  offset: 0, 0
+  index: -1
+closed
+  rotate: false
+  xy: 1510, 9
+  size: 701, 618
+  orig: 701, 618
+  offset: 0, 0
+  index: -1
+open
+  rotate: false
+  xy: 2, 2
+  size: 791, 625
+  orig: 791, 625
+  offset: 0, 0
+  index: -1

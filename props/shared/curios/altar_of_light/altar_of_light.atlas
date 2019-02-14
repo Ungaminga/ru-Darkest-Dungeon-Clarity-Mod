@@ -1,0 +1,27 @@
+
+altar_of_light.png
+size: 883,674
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+active
+  rotate: false
+  xy: 286, 37
+  size: 301, 635
+  orig: 301, 635
+  offset: 0, 0
+  index: -1
+closed
+  rotate: false
+  xy: 2, 2
+  size: 282, 670
+  orig: 282, 670
+  offset: 0, 0
+  index: -1
+open
+  rotate: false
+  xy: 589, 30
+  size: 292, 642
+  orig: 292, 642
+  offset: 0, 0
+  index: -1

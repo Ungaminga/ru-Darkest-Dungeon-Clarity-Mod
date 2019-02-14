@@ -1,0 +1,27 @@
+
+pile_of_scrolls.png
+size: 1296,205
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+active
+  rotate: false
+  xy: 2, 13
+  size: 440, 190
+  orig: 440, 190
+  offset: 0, 0
+  index: -1
+closed
+  rotate: false
+  xy: 871, 3
+  size: 423, 200
+  orig: 423, 200
+  offset: 0, 0
+  index: -1
+open
+  rotate: false
+  xy: 444, 2
+  size: 425, 201
+  orig: 425, 201
+  offset: 0, 0
+  index: -1

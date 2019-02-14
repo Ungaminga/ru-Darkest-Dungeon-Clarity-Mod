@@ -1,0 +1,27 @@
+
+ancient_coffin.png
+size: 838,1294
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+active
+  rotate: true
+  xy: 2, 2
+  size: 831, 421
+  orig: 831, 421
+  offset: 0, 0
+  index: -1
+closed
+  rotate: true
+  xy: 425, 7
+  size: 826, 411
+  orig: 826, 411
+  offset: 0, 0
+  index: -1
+open
+  rotate: false
+  xy: 2, 835
+  size: 826, 457
+  orig: 826, 457
+  offset: 0, 0
+  index: -1

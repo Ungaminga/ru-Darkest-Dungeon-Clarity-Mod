@@ -1,0 +1,27 @@
+
+makeshift_dining_table.png
+size: 2159,529
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+active
+  rotate: false
+  xy: 697, 27
+  size: 706, 500
+  orig: 706, 500
+  offset: 0, 0
+  index: -1
+closed
+  rotate: false
+  xy: 2, 2
+  size: 693, 525
+  orig: 693, 525
+  offset: 0, 0
+  index: -1
+open
+  rotate: false
+  xy: 1405, 138
+  size: 752, 389
+  orig: 752, 389
+  offset: 0, 0
+  index: -1

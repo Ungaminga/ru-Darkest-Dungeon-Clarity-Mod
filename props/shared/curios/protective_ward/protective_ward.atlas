@@ -1,0 +1,27 @@
+
+protective_ward.png
+size: 325,1227
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+active
+  rotate: false
+  xy: 2, 795
+  size: 321, 430
+  orig: 321, 430
+  offset: 0, 0
+  index: -1
+closed
+  rotate: false
+  xy: 2, 398
+  size: 316, 395
+  orig: 316, 395
+  offset: 0, 0
+  index: -1
+open
+  rotate: false
+  xy: 2, 2
+  size: 313, 394
+  orig: 313, 394
+  offset: 0, 0
+  index: -1

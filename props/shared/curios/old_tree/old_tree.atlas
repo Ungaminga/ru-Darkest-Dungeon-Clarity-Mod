@@ -1,0 +1,27 @@
+
+old_tree.png
+size: 2576,724
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+active
+  rotate: false
+  xy: 865, 2
+  size: 826, 720
+  orig: 826, 720
+  offset: 0, 0
+  index: -1
+closed
+  rotate: false
+  xy: 2, 19
+  size: 861, 703
+  orig: 861, 703
+  offset: 0, 0
+  index: -1
+open
+  rotate: false
+  xy: 1693, 83
+  size: 881, 639
+  orig: 881, 639
+  offset: 0, 0
+  index: -1

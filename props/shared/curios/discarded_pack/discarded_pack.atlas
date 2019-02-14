@@ -1,0 +1,27 @@
+
+discarded_pack.png
+size: 1338,381
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+active
+  rotate: false
+  xy: 932, 2
+  size: 404, 377
+  orig: 404, 377
+  offset: 0, 0
+  index: -1
+closed
+  rotate: false
+  xy: 2, 26
+  size: 463, 353
+  orig: 463, 353
+  offset: 0, 0
+  index: -1
+open
+  rotate: false
+  xy: 467, 74
+  size: 463, 305
+  orig: 463, 305
+  offset: 0, 0
+  index: -1

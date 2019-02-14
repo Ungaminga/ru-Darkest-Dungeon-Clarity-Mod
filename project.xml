@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	<PreviewIconFile>preview_icon.png</PreviewIconFile>
+	<ItemDescriptionShort/>
+	<ModDataPath>C:/games/steamapps/common/DarkestDungeon/mods/1424707455/</ModDataPath>
+	<Title>Darkest Dungeon Clarity Mod</Title>
+	<Language>english</Language>
+	<UpdateDetails/>
+	<Visibility>friends</Visibility>
+	<UploadMode>dont_submit</UploadMode>
+	<VersionMajor>0</VersionMajor>
+	<VersionMinor>4</VersionMinor>
+	<TargetBuild>0</TargetBuild>
+	<Tags>
+		<Tags>Clarity</Tags>
+		<Tags>No More Wiki</Tags>
+	</Tags>
+	<ItemDescription>You no longer need to look at the Wiki for damn near everything!!!
+	
+	Key Features:
+	- More Quirk Information! Ever wanted to know what exactly Egomania does? You do now!
+	- More Curio Information! Now you can have your Blight resistant hero open Curios that cause Blight!
+	- More Information on Enemy Attacks! If they deal Damage, Require specific Ranks, or Target specific Ranks now you know!
+	- Clearer Items! Along with a Curio interaction list by area. No need to think &quot;What does antitoxin do in the Cove?&quot;
+	- Tips on quests based on areas. Going to the Cove? Grab some extra Shovels!
+	- Boss Previews before starting a quest! No more &quot;Uh-Oh! His stun resistance is actually pretty high!&quot;
+	
+	And more!
+	
+	Still in development, so far only partially covers the crimson courtyard content, but more support coming soon!</ItemDescription>
+	<PublishedFileId>1424707455</PublishedFileId>
+</project>
+

@@ -1,0 +1,27 @@
+
+sacrificial_stone.png
+size: 2002,844
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+active
+  rotate: false
+  xy: 2, 2
+  size: 672, 840
+  orig: 672, 840
+  offset: 0, 0
+  index: -1
+closed
+  rotate: false
+  xy: 676, 11
+  size: 663, 831
+  orig: 663, 831
+  offset: 0, 0
+  index: -1
+open
+  rotate: false
+  xy: 1341, 15
+  size: 659, 827
+  orig: 659, 827
+  offset: 0, 0
+  index: -1

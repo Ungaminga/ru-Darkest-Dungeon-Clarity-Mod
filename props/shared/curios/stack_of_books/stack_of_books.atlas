@@ -1,0 +1,27 @@
+
+stack_of_books.png
+size: 1160,425
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+active
+  rotate: true
+  xy: 800, 18
+  size: 405, 358
+  orig: 405, 358
+  offset: 0, 0
+  index: -1
+closed
+  rotate: true
+  xy: 444, 6
+  size: 417, 354
+  orig: 417, 354
+  offset: 0, 0
+  index: -1
+open
+  rotate: true
+  xy: 2, 2
+  size: 421, 440
+  orig: 421, 440
+  offset: 0, 0
+  index: -1

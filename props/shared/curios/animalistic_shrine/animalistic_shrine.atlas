@@ -1,0 +1,27 @@
+
+animalistic_shrine.png
+size: 1300,755
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+active
+  rotate: false
+  xy: 2, 2
+  size: 436, 751
+  orig: 436, 751
+  offset: 0, 0
+  index: -1
+closed
+  rotate: false
+  xy: 440, 17
+  size: 428, 736
+  orig: 428, 736
+  offset: 0, 0
+  index: -1
+open
+  rotate: false
+  xy: 870, 17
+  size: 428, 736
+  orig: 428, 736
+  offset: 0, 0
+  index: -1

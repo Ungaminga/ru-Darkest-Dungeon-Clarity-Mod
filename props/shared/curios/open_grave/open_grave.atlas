@@ -1,0 +1,41 @@
+
+open_grave.png
+size: 2654,1431
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+active
+  rotate: true
+  xy: 1057, 138
+  size: 1291, 983
+  orig: 1291, 983
+  offset: 0, 0
+  index: -1
+closed
+  rotate: true
+  xy: 2, 66
+  size: 1363, 1053
+  orig: 1363, 1053
+  offset: 0, 0
+  index: -1
+open
+  rotate: true
+  xy: 2, 66
+  size: 1363, 1053
+  orig: 1363, 1053
+  offset: 0, 0
+  index: -1
+ghost
+  rotate: false
+  xy: 2042, 2
+  size: 500, 779
+  orig: 500, 779
+  offset: 0, 0
+  index: -1
+mist
+  rotate: false
+  xy: 2042, 783
+  size: 610, 646
+  orig: 610, 646
+  offset: 0, 0
+  index: -1

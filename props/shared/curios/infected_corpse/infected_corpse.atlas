@@ -1,0 +1,27 @@
+
+infected_corpse.png
+size: 690,960
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+active
+  rotate: false
+  xy: 2, 2
+  size: 353, 574
+  orig: 353, 574
+  offset: 0, 0
+  index: -1
+closed
+  rotate: true
+  xy: 2, 578
+  size: 380, 614
+  orig: 380, 614
+  offset: 0, 0
+  index: -1
+open
+  rotate: false
+  xy: 357, 15
+  size: 331, 561
+  orig: 331, 561
+  offset: 0, 0
+  index: -1

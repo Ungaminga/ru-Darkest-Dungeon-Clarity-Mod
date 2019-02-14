@@ -1,0 +1,27 @@
+
+pristine_fountain.png
+size: 1300,633
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+active
+  rotate: false
+  xy: 878, 17
+  size: 420, 614
+  orig: 420, 614
+  offset: 0, 0
+  index: -1
+closed
+  rotate: false
+  xy: 458, 2
+  size: 418, 629
+  orig: 418, 629
+  offset: 0, 0
+  index: -1
+open
+  rotate: false
+  xy: 2, 2
+  size: 454, 629
+  orig: 454, 629
+  offset: 0, 0
+  index: -1

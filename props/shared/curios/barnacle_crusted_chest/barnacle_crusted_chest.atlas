@@ -1,0 +1,27 @@
+
+barnacle_crusted_chest.png
+size: 1095,336
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+active
+  rotate: false
+  xy: 739, 2
+  size: 354, 332
+  orig: 354, 332
+  offset: 0, 0
+  index: -1
+closed
+  rotate: false
+  xy: 379, 18
+  size: 358, 316
+  orig: 358, 316
+  offset: 0, 0
+  index: -1
+open
+  rotate: false
+  xy: 2, 22
+  size: 375, 312
+  orig: 375, 312
+  offset: 0, 0
+  index: -1

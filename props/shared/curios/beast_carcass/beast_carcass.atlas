@@ -1,0 +1,27 @@
+
+beast_carcass.png
+size: 2070,313
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+active
+  rotate: false
+  xy: 2, 2
+  size: 698, 309
+  orig: 698, 309
+  offset: 0, 0
+  index: -1
+closed
+  rotate: false
+  xy: 702, 11
+  size: 682, 300
+  orig: 682, 300
+  offset: 0, 0
+  index: -1
+open
+  rotate: false
+  xy: 1386, 38
+  size: 682, 273
+  orig: 682, 273
+  offset: 0, 0
+  index: -1
